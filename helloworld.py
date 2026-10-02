@@ -1,0 +1,1 @@
+print('Greetings,fellow humans world!')
